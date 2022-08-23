@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(43, 199, 134);
+}
+
+#container {
+    background-color: whitesmoke;
+    max-width: 700px;
+    margin: auto;
+    border-radius: 5px;
+    padding: 5px;
+    box-shadow: 2px 2px 0px 1px black;
+}
+
+header h1, h2 {
+    text-align: center;
+    margin: auto;
+}
+
+header h2 {
+    font-size: 15pt;
+    font-style: italic;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+main p {
+    text-align: justify;
+    margin: 10px 20px;
+}
+
+main h2 {
+    font-weight: bolder;
+    padding: 20px;
+}
+
+#image {
+    text-align: center;
+}
+
+#image img {
+    width: 50%;
+}
+
+footer p {
+    text-align: center;
+}
